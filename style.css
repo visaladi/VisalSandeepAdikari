@@ -16,6 +16,7 @@ body{
     background-image:url(images/background.png);
     background-size: cover;
     background-position: center;
+    
 }
 .container{
     padding: 10px 5%;
@@ -32,6 +33,7 @@ nav{
 .logo{
 
     width: 100px;
+   
 }
 
 
@@ -47,6 +49,7 @@ nav ul li a{
     text-decoration: none;
     font-size: 18px;
     position: relative;
+    
 }
 
 nav ul li a ::after{
@@ -88,6 +91,7 @@ nav ul li a:hover::after{
     font-size: 30px;
 
 }
+
 /*------------------------about me---------------------------*/
 
 #about{
@@ -371,5 +375,5 @@ form .btn2{
     margin-top: 20px;
 }
 @media only screen and (max-width:600px){
-    
+
 }
